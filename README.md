@@ -19,4 +19,4 @@ http://localhost/project-folder-name OR http://server-ip/project-folder-name
 Follow the installation instruction process.
 
 <a href="">Demo</a>
-github Url: 
+github Url: https://github.com/omprakash1989/ColorMemoryGame 
