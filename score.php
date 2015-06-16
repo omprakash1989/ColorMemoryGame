@@ -1,8 +1,11 @@
 <?php
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * score.php
+ *
+ * This is the file which handles the ajax request for score and rank calculation.
+ * It serves for ajax request.
+ * @author Om Prakash <oppradhan2011@gmail.com>
+ * @copyright (c) 2015, Om Prakash
  */
 
 include_once 'lib/Config.php';

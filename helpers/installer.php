@@ -1,8 +1,14 @@
 <?php
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * installer.php
+ *
+ * This class handles the installation of the application.
+ *
+ * @author Om Prakash <oppradhan2011@gmail.com>
+ * @copyright (c) 2015, Om Prakash
+ *
  */
+
 $msg = '';
 if (isset($_GET['msg']) && $_GET['msg'] != '') {
   $msg = $_GET['msg'];

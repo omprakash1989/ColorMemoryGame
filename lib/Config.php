@@ -1,8 +1,12 @@
 <?php
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Config.php
+ *
+ * Config file for this application.
+ * Also Create the connetion with the database for further handling.
+ * @author Om Prakash <oppradhan2011@gmail.com>
+ * @copyright (c) 2015, Om Prakash
  */
 
 include_once 'helpers/function.php';

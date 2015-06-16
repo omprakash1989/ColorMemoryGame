@@ -3,7 +3,8 @@
  * @file index.php
  *
  * This is the landing page of the game.
- * @author Om Prakash <omprakash@incaendo.com>
+ * @author Om Prakash <oppradhan2011@gmail.com>
+ * @copyright (c) 2015, Om Prakash
  */
 
 if (!file_exists('getConfig.php')) {

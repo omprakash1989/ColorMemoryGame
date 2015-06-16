@@ -1,9 +1,12 @@
 <?php
 
 /**
- * QueryHandler
+ * Class QueryHandler.
  *
- * This class handles the database connection and basic query hadling.
+ * This is the mysql query library for this application.
+ *
+ * @author Om Prakash <oppradhan2011@gmail.com>
+ * @copyright (c) 2015, Om Prakash
  */
 
 class QueryHandler {

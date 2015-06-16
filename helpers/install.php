@@ -1,4 +1,14 @@
 <?php
+/**
+ * install.php
+ *
+ * It handles the installation process and create database and table.
+ *
+ * @author Om Prakash <oppradhan2011@gmail.com>
+ * @copyright (c) 2015, Om Prakash
+ *
+ */
+
 if (isset($_POST)) {
   $servername = trim($_POST['host']);
   $username = trim($_POST['user']);
